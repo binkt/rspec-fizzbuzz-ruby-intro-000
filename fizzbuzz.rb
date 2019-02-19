@@ -4,6 +4,8 @@ def fizzbuzz(the_num)
   if the_num % 3 == 0
     puts "Fizz"
   else
-    puts "Poop"
   end
 end
+
+fizzresult = fizzbuzz(6)
+puts #{fizzresult}
