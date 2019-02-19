@@ -3,7 +3,7 @@
 def fizzbuzz(the_num)
   if #{the_num}%3 == 0
     puts "Fizz"
+    puts "#{the_num} is the number"
   end
 end
 fizzbuzz(7)
-puts "#{the_num} is the number"
