@@ -5,7 +5,7 @@ def fizzbuzz(the_num)
     puts "Fizz"
   end
 end
-
+fizzbuzz(7)
 puts "#{the_num} is the number"
 
-fizzbuzz(7)
+
