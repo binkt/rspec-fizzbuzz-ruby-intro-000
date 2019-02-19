@@ -4,6 +4,8 @@ def fizzbuzz(the_num)
   if #{the_num}+3 == 0
     puts "Fizz"
     puts "#{the_num} is the number"
+  else
+    puts "Poop"
   end
 end
 fizzbuzz(7)
