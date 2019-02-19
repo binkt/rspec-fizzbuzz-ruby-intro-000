@@ -5,3 +5,5 @@ def fizzbuzz(the_num)
     puts "Fizz"
   end
 end
+
+fizzbuzz(6)
