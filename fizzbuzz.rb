@@ -6,4 +6,6 @@ def fizzbuzz(the_num)
   end
 end
 
+puts #{the_num}%3
+
 fizzbuzz(7)
