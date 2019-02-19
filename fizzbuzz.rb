@@ -3,6 +3,5 @@
 def fizzbuzz(the_num)
   if #{the_num}%3 == 0
     puts "Fizz"
-  else
   end
 end
