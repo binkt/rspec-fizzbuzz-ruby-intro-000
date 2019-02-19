@@ -6,6 +6,6 @@ def fizzbuzz(the_num)
   end
 end
 
-puts the_num % 3
+puts "#{the_num} is the number"
 
 fizzbuzz(7)
