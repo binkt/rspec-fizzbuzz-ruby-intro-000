@@ -3,8 +3,10 @@
 def fizzbuzz(the_num)
   if 3+3 == 0
     puts "Fizz"
+    puts "#{the_num}"
   else
     puts "Poop"
+    puts "#{the_num}"
   end
 end
 fizzbuzz(7)
