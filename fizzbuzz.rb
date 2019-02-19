@@ -7,5 +7,3 @@ def fizzbuzz(the_num)
 end
 fizzbuzz(7)
 puts "#{the_num} is the number"
-
-
