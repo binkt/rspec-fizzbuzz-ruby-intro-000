@@ -8,4 +8,4 @@ def fizzbuzz(the_num)
   end
 end
 
-fizzbuzz(15)
+puts fizzbuzz(15)
