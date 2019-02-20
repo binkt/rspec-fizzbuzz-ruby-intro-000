@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(the_num)
   if the_num % 3 == 0
-    puts "Fizz"
+    returns "Fizz"
   else
   end
 end
