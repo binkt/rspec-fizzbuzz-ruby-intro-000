@@ -7,3 +7,5 @@ def fizzbuzz(the_num)
     return "Buzz"
   end
 end
+
+fizzbuzz(15)
