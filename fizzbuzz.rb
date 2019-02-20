@@ -6,4 +6,3 @@ def fizzbuzz(the_num)
   else
   end
 end
-
