@@ -7,5 +7,3 @@ def fizzbuzz(the_num)
   end
 end
 
-fizzresult = fizzbuzz(6)
-puts #{fizzresult}
